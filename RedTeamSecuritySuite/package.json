@@ -1,0 +1,13 @@
+{
+  "name": "redteamsecuritysuite",
+  "version": "1.0.0",
+  "description": "Automated GenAI Red-Team security suite",
+  "main": "index.js",
+  "scripts": {
+    "eval": "npx promptfoo eval",
+    "view": "npx promptfoo view"
+  },
+  "dependencies": {
+    "promptfoo": "latest"
+  }
+}
