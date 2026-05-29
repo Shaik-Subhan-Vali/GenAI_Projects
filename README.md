@@ -41,4 +41,4 @@ I build robust, automated testing infrastructure for traditional web application
 * **Impact:** Dynamically validates the AI's conversational state-machine and ReAct loop inside the actual DOM.
 
 ---
-📫 **Let's Connect:** [[Your LinkedIn URL](https://www.linkedin.com/in/subhanvali/)]
+📫 **Let's Connect:** [(https://www.linkedin.com/in/subhanvali/)]
