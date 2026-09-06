@@ -1,4 +1,4 @@
-# 🛡️ Project 1: LLM Red-Team Security Suite (AI Fitness Coach)
+# 🛡️LLM Red-Team Security Suite (AI Fitness Coach)
 
 ## 🎯 Objective
 To evaluate the security, resilience, and system prompt integrity of an enterprise LLM application. This project automates the testing of an "AI Fitness Coach" against malicious Prompt Injections, Persona Hijacking, and Jailbreak attempts to ensure the model does not leak proprietary system instructions or bypass safety guardrails.
